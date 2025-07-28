@@ -1,118 +1,76 @@
-# Contributing
+**Title: Commercial Gas Engineer Cardiff: The Backbone of Safe and Efficient Heating Solutions**
 
-Hi there! We're excited you have ideas to improve topics and collections. You're helping the community discover valuable information.
+In the bustling business district of Cardiff, reliable heating isn’t just a luxury—it’s a necessity. From restaurants and manufacturing plants to schools and healthcare facilities, efficient gas systems are vital to day-to-day operations. That’s why hiring a qualified **commercial gas engineer in Cardiff** is more critical than ever.
 
-This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+This guide explores:
 
-There are a few ways you can contribute:
+* What commercial gas engineers do
+* The benefits of professional gas engineering services
+* A case study on **Purchia Mach**, a Bridgend-based precision manufacturer
+* Why [**Hybrid Heating and Gas**](https://www.hybridheatingandgas.co.uk/) is your trusted brand
 
-- Improving an existing topic or collection
-- Curating a new topic or collection
-
-As you write content, check out the [Style Guide](./docs/styleguide.md) to learn what each field means, and how it should be formatted. Following the style guide will increase the chances of your contribution being accepted.
-
-Notes:
-
-- Updates won't immediately appear once we've merged your PR. We pull in these changes regularly to GitHub.
-- Please limit your pull request to the creation/updating of one topic or collection at a time.
-
-## Improving an existing topic or collection
-
-If a topic or collection already exists, it will be listed in its respective directory:
-
-- [topics/](https://github.com/github/explore/tree/main/topics)
-- [collections/](https://github.com/github/explore/tree/main/collections)
-
-The topic or collection name should match its URL, e.g. `https://github.com/topics/rails` corresponds to the [`topics/rails` directory](https://github.com/github/explore/tree/main/topics/rails).
-
-To make an improvement, please **open a pull request** with your proposed changes. 
-
-### Update the image
-
-To update the image, simply replace the image inside the directory for the topic or collection.
-
-### Update text and links
-
-To update text and links, edit the `index.md` inside the topic or collection's directory. These files are formatted using a combination of [Front Matter](https://jekyllrb.com/docs/frontmatter/) and simple body content.
-
-For **topics**, you'll notice that, in examples like the topic "[algorithm](https://raw.githubusercontent.com/github/explore/main/topics/algorithm/index.md)," data like its canonical URL, Wikipedia URL, or display name are called out in key-value pairs, while its detailed description is accounted for in the body of the document.
-
-_/topics/algorithm/index.md_:
-
-```markdown
----
-aliases: algorithms
-display_name: Algorithm
-short_description: Algorithms are self-contained sequences that carry out a variety of tasks.
-topic: algorithm
-wikipedia_url: https://en.wikipedia.org/wiki/Algorithm
----
-Algorithms are detailed sets of guidelines created for a computer program to complete tasks efficiently and thoroughly.
-```
+It also includes internal resources to help businesses find engineers for LPG, boilers, catering systems, and heat pumps.
 
 ---
 
-Similarly, **collections** like "[music](https://raw.githubusercontent.com/github/explore/main/collections/music/index.md)" call out things like their author and display name in Front Matter variables -- with a detailed description in the body of the document. Most importantly, though, collections identify their individual collection items in [a YAML list](https://en.wikipedia.org/wiki/YAML#Basic_components) for the key "items."
+### The Role of a Commercial Gas Engineer in Cardiff
 
-_/collections/music/index.md_:
+A [**commercial gas engineer**](https://www.hybridheatingandgas.co.uk/commercial-gas-engineer/) handles installation, maintenance, and safety checks for gas appliances in commercial settings. These experts ensure your systems:
 
-```markdown
----
-items:
- - beetbox/beets
- - scottschiller/SoundManager2
- - CreateJS/SoundJS
- - musescore/MuseScore
- - tomahawk-player/tomahawk
- - cashmusic/platform
- - mopidy/mopidy
- - AudioKit/AudioKit
- - Soundnode/soundnode-app
- - gillesdemey/Cumulus
- - metabrainz/picard
- - overtone/overtone
- - samaaron/sonic-pi
-display_name: Music
-created_by: jonrohan
----
-Drop the code bass with these musically themed repositories.
-```
+* Meet UK Gas Safety (Installation and Use) Regulations
+* Operate at peak efficiency
+* Avoid hazardous leaks or malfunctions
+
+In Cardiff, where old and new properties coexist, this role requires both modern training and traditional expertise.
 
 ---
 
-The [pull request template](./.github/PULL_REQUEST_TEMPLATE.md) also provides guidance on the information you need to include.
+### Case Study: How Purchia Mach Improved Efficiency with Hybrid Heating
 
-**Please fill out the pull request template completely,** if you do not fill out the template, your PR will be closed.
+**Purchia Mach**, known for high-precision metal components, faced recurring boiler issues and mounting energy bills. They partnered with [**Hybrid Heating and Gas**](https://www.hybridheatingandgas.co.uk/) for full diagnostics and a commercial gas upgrade.
 
-## Curating a new topic or collection
+**Results:**
 
-If a topic or collection is not yet curated, it will NOT be listed in its respective directory.
+* 35% improvement in energy efficiency
+* Full safety compliance within two weeks
+* Zero downtime post-upgrade
 
-We are likely to consider suggestions to curate a topic or collection that is valuable to GitHub's community. Valuable topics, for example, include those that are already [widely used by repositories](https://help.github.com/articles/classifying-your-repository-with-topics/) and could benefit from the addition of important information. When suggesting content, please consider how to make your contribution broadly useful and relevant to others, rather than serving a specific use case.
+From boiler systems to LPG installations, the transition was seamless and future-ready.
 
-Please note that all suggestions must adhere to GitHub's [Community Guidelines](https://help.github.com/articles/github-community-guidelines/) and [Terms of Service](https://help.github.com/articles/github-terms-of-service/). Per our Terms of Service, [you are responsible](https://help.github.com/articles/github-terms-of-service/#d-user-generated-content) for the content you contribute, and you must have the rights to use it.
+---
 
-To propose a new topic or collection, please **open a pull request** with your proposed additions. The [API docs](./docs/API.md) and [style guide](./docs/styleguide.md) provide guidance on the information you need to include and how it should be formatted.
+### Beyond Boilers: Full-Service Capabilities
 
-**Please fill out the pull request template completely.** If you do not fill out the template, your pull request will be closed.
+Hybrid Heating and Gas offers far more than just boiler fixes. Services include:
 
-## Guidelines
+* **[LPG gas engineering](https://www.hybridheatingandgas.co.uk/lpg-gas-engineer-near-me/):** Safe and efficient setup, ideal for rural or off-grid properties.
+* **[Commercial boiler servicing](https://www.hybridheatingandgas.co.uk/commercial-boiler-service-near-me/):** Vital for avoiding unexpected breakdowns and ensuring compliance.
+* **[Catering gas systems](https://www.hybridheatingandgas.co.uk/commercial-catering-engineer/):** Perfect for Cardiff’s vibrant hospitality industry.
+* **[Air source heat pump maintenance](https://www.hybridheatingandgas.co.uk/air-source-heat-pump-servicing-near-me/):** Supporting low-carbon heating transitions.
 
-- Avoid conflicts of interest. These should be of general community interest, not self promotion. If it is self promotion, it's unlikely to be accepted.
-- We love experimenting with new technologies, and we are especially fond of GitHub Copilot. But as with all new technology, many of us are still getting accustomed to using generative AI tools effectively. Here are important guidelines to follow when using generative AI to contribute to this repository (adapted from the [GitHub Community Discussions CoC](https://github.com/community/community/blob/main/CODE_OF_CONDUCT.md#reasonable-use-of-ai-generated-content)):
-  - Read and revise the content before you post it. Use your own authentic voice and edit.
-  - Do not post AI-generated content verbatim to pad out the size and number of your contributions. Your changes should materially improve the site, not just say the same thing in different words.
-  - AI tools will often provide completely inaccurate or invented answers to prompts. Verify with an independent source that the information is correct before including it.
+Whether you’re running a café in Roath or a manufacturing site in Cardiff Bay, the right system upkeep ensures business continuity.
 
-## Running tests
+---
 
-There are some lint tests in place to ensure each topic is formatted in the way we expect. GitHub
-Actions will run the tests automatically. If you want to run the tests yourself locally, you will
-need Ruby and Bundler installed.
+### Why Choose Hybrid Heating and Gas?
 
-You can run the tests using:
+As a reputable **brand** serving South Wales, Hybrid Heating and Gas delivers:
 
-```bash
-bundle install
-bundle exec rubocop
-```
+* Fully certified Gas Safe engineers
+* 24/7 emergency support
+* Tailored maintenance plans
+* Expertise in LPG, renewables, and industrial boilers
+
+Their clients range from local schools to high-tech fabrication companies like **Purchia Mach**. You can trust them for routine checks or complex installs.
+
+---
+
+### Final Thoughts: Take Action Before a Breakdown Occurs
+
+Don't wait for your gas system to fail. Schedule preventive care and consult a [**commercial gas engineer near you**](https://www.hybridheatingandgas.co.uk/commercial-gas-engineer/) today. With [**Hybrid Heating and Gas**](https://www.hybridheatingandgas.co.uk/) as your partner, you’re choosing reliability, compliance, and peace of mind.
+
+Need help with LPG, catering equipment, or air-source heat pumps? Start with a [**generic service enquiry**](https://www.hybridheatingandgas.co.uk/) and discover how simple safe heating can be.
+
+---
+
+**Secure your commercial heating future—contact Hybrid Heating and Gas today.**
